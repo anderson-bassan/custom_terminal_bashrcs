@@ -1,3 +1,7 @@
+**BEFORE**
+![Print screen of my terminal NOT showing the styles for root and regular user](before.png?raw=true "Default Terminal")
+
+**AFTER**
 ![Print screen of my terminal showing the styles for root and regular user](custom_terminal_print.png?raw=true "Custom Terminal")
 
 # Custom Terminal Bashrcs
