@@ -20,3 +20,5 @@ $ sudo source /root/.bashrc
 ```
   
 If you have more than one regular user copy these .bashrc to the other users home
+
+Obs: the script won't change the look of the terminal or the wallpaper as seen in the image.
